@@ -10,8 +10,10 @@ First, get your own OpenAI API key:
 Local development
 To set up a coding environment locally, make sure that you have a functional Python environment (e.g. Python >3.7) and install the following three Python libraries:
 
-### `pip install streamlit openai langchain`
+# `pip install streamlit openai langchain`
  
-### `pyhton main.py`
+# `pyhton main.py`
 
-### `streamlit run main.py`
+# `streamlit run main.py`
+
+## Live demo [https://chat-langchain.streamlit.app]
